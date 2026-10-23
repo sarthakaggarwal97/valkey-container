@@ -22,9 +22,9 @@
     }
   },
   "8.1": {
-    "version": "8.1.10",
-    "url": "https://github.com/valkey-io/valkey/archive/refs/tags/8.1.10.tar.gz",
-    "sha256": "c74e50cd83f6d398a3dc570e04ac2fe538249585d021f76ee2449bbf9ebd04ed",
+    "version": "8.1.11",
+    "url": "https://github.com/sarthakaggarwal97/valkey/archive/refs/tags/8.1.11.tar.gz",
+    "sha256": "c048e2632be0dbc3f089539963351ae9d29d0fbdff0f85039268f3a9f6bffa47",
     "debian": {
       "version": "trixie"
     },
