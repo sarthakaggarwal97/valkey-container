@@ -11,9 +11,9 @@
     }
   },
   "8.0": {
-    "version": "8.0.11",
-    "url": "https://github.com/valkey-io/valkey/archive/refs/tags/8.0.11.tar.gz",
-    "sha256": "e4ee4ad51c2e9cb75c5fac8865d34792482a597bf3b136b42b296c9933bd31f8",
+    "version": "8.0.12",
+    "url": "https://github.com/sarthakaggarwal97/valkey/archive/refs/tags/8.0.12.tar.gz",
+    "sha256": "93d34a16ff58632ac62f456cbeb216ebe53f717e31e38e9fb9b8c3894ddc47c1",
     "debian": {
       "version": "trixie"
     },
